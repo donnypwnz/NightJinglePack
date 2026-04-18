@@ -4,7 +4,7 @@
     {
       "name": "Pokémon Omega Ruby & Alpha Sapphire",
       "file": "jingles/n3ds/Pokemon-Omega-Ruby-Alpha-Sapphire.mp3",
-      "regex": "(pok[eé]?(mon)?\\s*)?((omeg[a]?\\s*rub(y)?|rub(y)?\\s*omeg[a]?)|(alph[a]?\\s*sapp(hire)?|sapp(hire)?\\s*alph[a]?|alpha))"
+      "regex": "(pok[eé]?(mon)?\\s*)?((omeg[a]?\\s*rub(y)?|rub(y)?\\s*omeg[a]?)|(alph[a]?\\s*(sapp(hir(e)?)?|sapp|sap)|sapp(hir(e)?)?|alpha))"
     }
   ]
 }
