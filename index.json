@@ -1,10 +1,10 @@
 {
   "name": "Donny's 3DS Jingle Pack",
-  "n3ds": [
+  "entries": [
     {
       "name": "Pokémon Omega Ruby & Alpha Sapphire",
-      "file": "jingles/3ds/Pokemon_Omega_Ruby_Alpha_Sapphire.mp3",
-      "regex": "pok[eé]mon.*(omega.*rub|alpha.*sapp|alpha)"
+      "file": "Jingles/3ds/Pokemon_Omega_Ruby_Alpha_Sapphire.mp3",
+      "regex": "pok[eé]mon.*(omega.*ruby|alpha.*sapphire|alpha)"
     }
   ]
 }
