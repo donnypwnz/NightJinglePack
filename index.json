@@ -4,7 +4,7 @@
     {
       "name": "Pokémon Omega Ruby & Alpha Sapphire",
       "file": "jingles/3ds/Pokemon Omega Ruby and Alpha Sapphire.mp3",
-      "regex": "(pok[eé]mon)?\\s*(omega\\s*ruby|alpha\\s*sapphire)"
+      "regex": "(pok[eé]mon\\s*)?((omeg[a]?\\s*rub(?:y)?)|(alph[a]?\\s*sapp(?:hire)?))"
     },
     {
       "name": "3DS END",
